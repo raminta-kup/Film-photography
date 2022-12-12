@@ -1,0 +1,17 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: rgba(126, 101, 126, 0.404);
+}
+
+#editorial:after {
+    width: 100%;
+}
+
+#editorial {
+    color: #28221e;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 300; 
+}
